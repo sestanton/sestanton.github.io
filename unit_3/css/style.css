@@ -1,28 +1,29 @@
 body {
-	background-color: #FF805E;
+	background-color: #fff;
+	background-image: url(cottagestars.jpg);
 }
 h1 {
-	color: #00DCED;
+	color: #011821;
 	font-size: 28px;
 	text-align: left;
 	font-weight: bold;
 	font-family: helvetica;
 }
 p {
-	color: #00DCED;
+	color: #011821;
 	font-size: 16px;
 	text-align: center;
 	font-weight: bold;
 	font-family: helvetica;
 }
 ul {
-	color: #00DCED;
+	color: #011821;
 	font-size: 14px;
 	text-align: center;
 	font-family: helvetica;
 }
 li {
-	color: #00DCED;
+	color: #011821;
 	font-family: helvetica;
 	font-align: center;
 }
