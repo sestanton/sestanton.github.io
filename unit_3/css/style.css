@@ -4,14 +4,16 @@ body {
 	background-attachment: fixed;
 }
 h1 {
-	color: #011821;
+	color: #fff;
 	font-size: 28px;
 	text-align: left;
 	font-weight: bold;
 	font-family: helvetica;
 }
 p {
-	color: #011821;
+	display: inline-block;
+	width: 200px;
+	color: #fff;
 	font-size: 16px;
 	text-align: center;
 	font-weight: bold;
@@ -26,7 +28,7 @@ ul {
     display: block;
     font-family: helvetica;
     font-weight: bold;
-    font-color: #011821;
+    font-color: #fff;
     font-size: 12px;
     position: absolute;
     top: 50px;
@@ -35,12 +37,12 @@ ul {
 li {
     float: left;
     display: inline-block;
-    font-color: #011821;
+    font-color: #fff;
 }
 
 li a {
     display: block;
-    color: #011821;
+    color: #fff;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
