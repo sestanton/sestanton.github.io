@@ -1,21 +1,22 @@
 body {
-	background-image: url("https://c2.staticflickr.com/4/3754/33075724350_b60a2010dd_b.jpg");
+	background-image: url("https://c1.staticflickr.com/3/2947/33460495195_bb63bac502_b.jpg");
 	background-size: 100%, 100%;
 	background-repeat: no-repeat;
 }
 h1 {
 	color: #fff;
-	font-size: 38px;
+	font-size: 20px;
 	text-align: left;
 	font-weight: bold;
 	font-family: helvetica;
 }
 p {
-	color: #fff;
-	font-size: 18px;
+	color: #000;
+	font-size: 25px;
 	text-align: center;
 	font-weight: bold;
 	font-family: helvetica;
+	font-color: white;
 }
 ul {
     list-style-type: none;
@@ -27,7 +28,7 @@ ul {
     font-family: helvetica;
     font-weight: bold;
     font-color: #010A36;
-    font-size: 12px;
+    font-size: 14px;
     position: absolute;
     top: 50px;
     right: 0px;
@@ -47,11 +48,54 @@ li a {
     text-decoration: none;
 }
 
-img {
-	width: 300px;
-	height: 300px;
+#logo {
+	width: 750px;
 	display: block;
 	margin: 0 auto;
+	margin-bottom: 0px;
+}
+
+#papa {
+	width: 280px;
+	height: 280px;
+}
+
+#photography {
+	width: 280px;
+	height: 280px;
+}
+
+#infographic {
+	width: 280px;
+	height: 280px;
+}
+
+.boxes {
+	display: inline-block;
+	margin:0 0 0 0;
+	margin-left: 85px;
+	margin-right: 5px;
+	margin-bottom: 0px;
+}
+.text {
+	display: inline-block;
+	margin-left: 145px;
+	margin-right: 80px;
+	margin-top: 0px;
+	font-family: helvetica
+	font-size: 25px;
+	font-color: #FFF4EB;
+    padding: 1px;
+    color: #FFF4EB;
+
+}
+
+#corner {
+	width: 60px;
+	display: block;
+	margin-left: 0px;
+	margin-bottom: 0px;
+
 }
 
 
