@@ -1,16 +1,17 @@
 body {
 	background-image: url("images/cottagestars.jpg");
 	background-size: cover;
+	background-attachment: fixed;
 }
 h1 {
-	font-color: #FFF4EB;
+	color: #011821;
 	font-size: 28px;
 	text-align: left;
 	font-weight: bold;
 	font-family: helvetica;
 }
 p {
-	font-color: #FFF4EB;
+	color: #011821;
 	font-size: 16px;
 	text-align: center;
 	font-weight: bold;
@@ -21,6 +22,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
+    background-color: #fff;
     display: block;
     font-family: helvetica;
     font-weight: bold;
@@ -37,8 +39,8 @@ li {
 }
 
 li a {
+    display: block;
     color: #011821;
-  	font-color: #011821;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
