@@ -1,5 +1,6 @@
 body {
-
+	background: url("https://www.flickr.com/photos/90594330@N06/33329253731/in/album-72157681449476935/");
+	background-size: cover;
 }
 h1 {
 	color: #011821;
@@ -44,8 +45,6 @@ li a {
     text-decoration: none;
 }
 
-img {
-	size: cover;
-}
+
 
 
