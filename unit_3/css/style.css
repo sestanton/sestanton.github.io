@@ -78,6 +78,19 @@ li a {
 	margin-bottom: 0px;
 	margin-top: -30px;
 }
+.text {
+	display: inline-block;
+	margin-left: 65px;
+	margin-right: 35px;
+	margin-top: 0px;
+	font-family: helvetica;
+	font-size: 25px;
+	font-color: white;
+    padding: 4px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
 
 #corner {
 	width: 60px;
@@ -87,6 +100,9 @@ li a {
 
 }
 
+a {
+	text-align: center;
+}
 
 
 
