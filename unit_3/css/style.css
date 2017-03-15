@@ -5,9 +5,8 @@ body {
 	background-repeat: no-repeat;
 }
 h1 {
-	color: #fff;
+	color: #FFF4EB;
 	font-size: 28px;
-	font-color: #fff;
 	text-align: left;
 	font-weight: bold;
 	font-family: helvetica;
@@ -15,9 +14,8 @@ h1 {
 p {
 	display: inline;
 	width: 200px;
-	color: #fff;
+	color: #FFF4EB;
 	font-size: 16px;
-	font-color: #fff;
 	text-align: center;
 	font-weight: bold;
 	font-family: helvetica;
@@ -27,12 +25,12 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #fff;
-    font-color: #000;
+    background-color: #FFF4EB;
+    font-color: #011821;
     display: block;
     font-family: helvetica;
     font-weight: bold;
-    font-color: #000;
+    font-color: #011821;
     font-size: 12px;
     position: absolute;
     top: 50px;
@@ -41,13 +39,13 @@ ul {
 li {
     float: left;
     display: inline-block;
-    font-color: #000;
+    font-color: #011821;
 }
 
 li a {
     display: block;
-    color: #fff;
-  	font-color: #fff;
+    color: #011821;
+  	font-color: #011821;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
