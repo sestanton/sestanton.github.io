@@ -21,11 +21,13 @@ ul {
 	font-size: 14px;
 	text-align: center;
 	font-family: helvetica;
+	list-style-type: none;
 }
 li {
 	color: #011821;
 	font-family: helvetica;
 	font-align: center;
+	list-style-type: none;
 }
 img
 #slogan
