@@ -3,11 +3,11 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 792 792" style="enable-background:new 0 0 792 792;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#F2F2F7;}
-	.st1{font-family:'LeagueSpartan-Bold';}
-	.st2{font-size:68px;}
+	.st0{fill:#FCFCFC;}
 </style>
-<image style="overflow:visible;enable-background:new    ;" width="3125" height="3017" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAADDUAAAvJCAYAAACLq7wvAAAACXBIWXMAAC4jAAAuIwF4pT92AAAA
+<g>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="3125" height="3017" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAADDUAAAvJCAYAAACLq7wvAAAACXBIWXMAAC4jAAAuIwF4pT92AAAA
 GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAJ4EVJREFUeNrs3YtzluW9N/pfOYSA
 ECCcwykYCEgQEZSTFNBSRIv11FrXWl1vO2vWu/ae2X/G/hf27Jm1Zrrb9a63XbWiooCcIUEUFURg
 qUVAipRDEggihLOw9nU/TyIRrUpO5PD5zHznfp474brvXHdmmknz9RcBAAAAAAAAAAAAAAAAAAAA
@@ -11365,6 +11365,32 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAClzGxlwxQAAAAAAAAAAAAAAMArcbi1rGfVPAAAAAAAAAAAAAAA
 wCthAgAAAAAAAAAAAAAA4AdPDQAAAAAAAAAAAAAAwBeeGgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALhiA1KvOEYL43zkAAAAAElFTkSu
 QmCC" transform="matrix(0.2398 0 0 0.2397 -51.6 68.88)">
-</image>
-<text transform="matrix(1 0 0 1 211 744.0003)" class="st0 st1 st2">Illustration</text>
+	</image>
+	<g>
+		<path class="st0" d="M232.3,720.9h-12.4v-54.2h12.4V720.9z"/>
+		<path class="st0" d="M240.2,664.4h11.6v56.5h-11.6V664.4z"/>
+		<path class="st0" d="M259.7,664.4h11.6v56.5h-11.6V664.4z"/>
+		<path class="st0" d="M290.2,703.3c0,6.6,1.8,9.2,6.6,9.2s6.6-2.6,6.6-9.2v-16h11.6v18.9c0,11.3-5.7,15.8-18.3,15.8
+			s-18.3-4.5-18.3-15.8v-18.9h11.6V703.3z"/>
+		<path class="st0" d="M348,688.9l-3.8,7.6c0,0-3.9-2.1-7.5-2.1c-2.6,0-3.6,0.5-3.6,2c0,1.8,2.4,2.3,5.3,3.2
+			c4.5,1.4,10.3,3.9,10.3,10.8c0,9.9-9.1,11.5-16,11.5c-8.1,0-13-4.5-13-4.5l4.7-8c0,0,4.6,3.9,8.3,3.9c1.6,0,3.6-0.2,3.6-2.4
+			c0-2.4-3.7-2.6-7.5-4.6c-3.4-1.8-6.8-4.1-6.8-9.2c0-6.9,5.8-10.8,14.7-10.8C343.2,686.2,348,688.9,348,688.9z"/>
+		<path class="st0" d="M355.8,674.7h11.6v12.6h7.1v8.9h-7.1v10.7c0,3.2,0.8,4.7,2.6,4.7c1.5,0,2.9-1.1,2.9-1.1l2.9,9.4
+			c0,0-3.7,2.1-8.5,2.1c-9.3,0-11.5-6.9-11.5-12.9v-12.9h-4.9v-8.9h4.9V674.7z"/>
+		<path class="st0" d="M379.8,687.2h11.6v4.9h0.1c0,0,3.7-5.8,10.3-5.8c4.3,0,7.4,2.1,7.4,2.1l-4.9,9.9c0,0-2.2-1.8-6-1.8
+			c-6,0-6.9,6-6.9,6.8v17.7h-11.6V687.2z"/>
+		<path class="st0" d="M426.3,686.2c4.5,0,8.3,1.5,11,4.2v-3.2H449v33.7h-11.5v-3.8h-0.1c-2.5,2.8-6.4,4.8-11,4.8
+			c-9.9,0-16.8-8-16.8-17.8S416.4,686.2,426.3,686.2z M429.8,712c4.5,0,7.8-3.3,7.8-7.9c0-4.7-3.5-8-7.8-8c-4.4,0-7.9,3.3-7.9,8
+			C421.9,708.7,425.1,712,429.8,712z"/>
+		<path class="st0" d="M458.4,674.7H470v12.6h7.1v8.9H470v10.7c0,3.2,0.8,4.7,2.6,4.7c1.5,0,2.9-1.1,2.9-1.1l2.9,9.4
+			c0,0-3.7,2.1-8.5,2.1c-9.3,0-11.5-6.9-11.5-12.9v-12.9h-4.9v-8.9h4.9V674.7z"/>
+		<path class="st0" d="M495.2,673.3c0,3.8-3.1,6.9-6.9,6.9s-6.9-3.1-6.9-6.9s3.1-6.9,6.9-6.9S495.2,669.5,495.2,673.3z M482.4,720.9
+			H494v-33.7h-11.6V720.9z"/>
+		<path class="st0" d="M520.1,686.2c11.2,0,20.1,7.4,20.1,17.9c0,10.4-8.5,17.8-20.1,17.8c-12.2,0-20.3-7.4-20.3-17.8
+			C499.8,693.6,508.7,686.2,520.1,686.2z M520,712c4.5,0,7.8-3.3,7.8-7.9c0-4.7-3.5-8-7.8-8c-4.4,0-7.9,3.3-7.9,8
+			C512.1,708.7,515.3,712,520,712z"/>
+		<path class="st0" d="M545.5,687.2h11.6v3.5h0.1c2.6-2.6,6-4.5,9.7-4.5c6.2,0,14.8,3.1,14.8,12.5v22.2h-11.6v-19.1
+			c0-3.4-2.3-6.6-6-6.6c-3.5,0-6.9,3.2-6.9,6.6v19.1h-11.6V687.2z"/>
+	</g>
+</g>
 </svg>
