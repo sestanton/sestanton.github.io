@@ -83,7 +83,7 @@ li a {
 	margin-left: 65px;
 	margin-right: 35px;
 	margin-top: 0px;
-	font-family: helvetica
+	font-family: helvetica;
 	font-size: 25px;
 	font-color: white;
     padding: 4px;
@@ -98,6 +98,10 @@ li a {
 	margin-left: 0px;
 	margin-bottom: 0px;
 
+}
+
+a {
+	text-align: center;
 }
 
 
