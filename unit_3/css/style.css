@@ -1,0 +1,30 @@
+body {
+	background-color: 2A2C8C;
+}
+h1 {
+	color: FF3726;
+	font-size: 28px;
+	text-align: left;
+	font-weight: bold;
+	font-family: helvetica;
+}
+p {
+	color: FF3726;
+	font-size: 16px;
+	text-align: center;
+	font-weight: bold;
+	font-family: helvetica;
+}
+ul {
+	color: FF3726
+	font-size: 14px;
+	text-align: center;
+	font-family: helvetica;
+}
+li {
+	color: FF3726
+	text-align: center;
+	font-family: helvetica;
+}
+img
+#slogan
