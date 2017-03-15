@@ -1,6 +1,6 @@
 body {
 	background-image: url("https://c2.staticflickr.com/4/3754/33075724350_b60a2010dd_b.jpg");
-	background-image-size: cover;
+	background-size: 100%, 100%;
 	background-repeat: no-repeat;
 }
 h1 {
