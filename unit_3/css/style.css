@@ -1,6 +1,6 @@
 body {
-	background: url("cottagestars.jpg");
-	background-size: cover;
+	background-image: url("cottagestars.jpg");
+	background-image-size: cover;
 }
 h1 {
 	color: #011821;
