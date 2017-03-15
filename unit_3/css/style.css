@@ -80,13 +80,13 @@ li a {
 }
 .text {
 	display: inline-block;
-	margin-left: 20px;
+	margin-left: 25px;
 	margin-right: 20px;
 	margin-top: 0px;
 	font-family: helvetica
 	font-size: 25px;
 	font-color: white;
-    padding: 0px;
+    padding: 4px;
     color: white;
     text-decoration: none;
 }
