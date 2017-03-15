@@ -1,6 +1,5 @@
 body {
-	background-image: url(":///Users/ghostie/Desktop/sestanton.github.io/unit_3/images/cottagestars.jpg");
-	background-image-size: cover;
+
 }
 h1 {
 	color: #011821;
@@ -45,6 +44,8 @@ li a {
     text-decoration: none;
 }
 
-
+img {
+	size: cover;
+}
 
 
