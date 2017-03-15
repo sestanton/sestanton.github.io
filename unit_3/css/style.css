@@ -1,18 +1,18 @@
 body {
-	background-image: url("https://c1.staticflickr.com/1/695/33329253731_3c2684345c_b.jpg");
+	background-image: url("https://c2.staticflickr.com/4/3754/33075724350_b60a2010dd_b.jpg");
 	background-image-size: cover;
 	background-repeat: no-repeat;
 }
 h1 {
 	color: #fff;
-	font-size: 32px;
+	font-size: 38px;
 	text-align: left;
 	font-weight: bold;
 	font-family: helvetica;
 }
 p {
 	color: #fff;
-	font-size: 28px;
+	font-size: 18px;
 	text-align: center;
 	font-weight: bold;
 	font-family: helvetica;
@@ -45,6 +45,13 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+}
+
+img {
+	width: 300px;
+	height: 300px;
+	display: block;
+	margin: 0 auto;
 }
 
 
