@@ -48,6 +48,15 @@ li a {
     text-decoration: none;
 }
 
+a {
+	text-align: center;
+	display: block;
+	font-color: white;
+	font-family: helvetica;
+	font-size: 18px;
+	text-decoration: none;
+}
+
 #logo {
 	width: 725px;
 	display: block;
