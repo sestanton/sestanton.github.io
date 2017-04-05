@@ -1,0 +1,33 @@
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+section {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+div {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+section {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+body {
+	color: #fcfcf5;
+	font-size: 20px;
+	text-align: center;
+	font-family: helvetica, arial, sans-serif;
+}
+nav {
+	float:right;
+	color: #fcfcf5;
+}
