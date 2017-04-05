@@ -65,7 +65,6 @@ table {
 	width: 850px;
 	display: block;
 	margin: 0 auto;
-	float: center;
 }
 #corner {
 	width: 50px;
@@ -105,4 +104,43 @@ table {
     background-size: cover;
 	background-repeat: no-repeat;
 	height: 400px;
+}
+
+.column {
+	float: left;
+	width: 33%;
+	position: relative;
+	height: 400px;
+}
+
+.column h2 {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 50%;
+	transform: translateY(-50%);
+	margin: 0 auto;
+	color: white;
+	font-family: 'Abril Fatface';
+}
+
+#frog {
+	background-image: url("https://c2.staticflickr.com/4/3727/32949987863_719444b5bc_b.jpg");
+	background-repeat: no-repeat;
+	margin: 0 auto;
+	background-size: cover;
+}
+
+#stars {
+	background-image: url("https://c2.staticflickr.com/4/3939/32919748184_b9df4682bf_b.jpg");
+	background-repeat: no-repeat;
+	margin: 0 auto;
+	background-size: cover;
+}
+
+#sunset {
+	background-image: url("https://c1.staticflickr.com/3/2871/32919747394_e2ebf36c0a_b.jpg");
+	background-repeat: no-repeat;
+	margin: 0 auto;
+	background-size: cover;
 }
