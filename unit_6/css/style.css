@@ -1,0 +1,246 @@
+@import url(https://fonts.googleapis.com/css?family=Bungee+Shade);
+@import url(https://fonts.googleapis.com/css?family=Abril+Fatface);
+@import url(https://fonts.googleapis.com/css?family=Contrail+One);
+@import url(https://fonts.googleapis.com/css?family=Shrikhand);
+@import url(https://fonts.googleapis.com/css?family=Racing+Sans+One);
+@import url(https://fonts.googleapis.com/css?family=Bench+Nine);
+* { margin:0; padding:0; box-sizing:border-box; }
+
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
+
+header {
+    background-color: #f46e58;
+    border: 0px black solid;
+    padding: 60px;
+    margin-top: 0;
+}
+
+section {
+    background-color: #4699cc;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+p {
+	color: #28281e;
+	text-align: center;
+	font-size: 14px;
+	font-family: 'Abril Fatface';
+	margin: 0, auto;
+
+}
+
+div {
+    background-color: #4fd397;
+    border: 1px black solid;
+    padding: 20px;
+}
+#two-column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: yellow;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 50%;
+}
+
+#right {
+	background-color: #29e2e2;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 50%;
+}
+
+body {
+	color: #fcfcf5;
+	font-size: 20px;
+	text-align: center;
+	font-family: helvetica, arial, sans-serif;
+	margin: 0, auto;
+}
+nav {
+	float:right;
+	color: #fcfcf5;
+	margin: 0, auto;
+}
+nav a {
+    display: inline-block;
+    color: #fcfcf5;
+    padding: 0px 16px;
+    text-decoration: none;
+    font-family: 'Racing Sans One';
+    font-weight: lighter;
+    margin: 0, auto;
+}
+
+a {
+	text-align: center;
+	display: block;
+	color: #fcfcf5;
+	font-family: helvetica;
+	font-size: 19px;
+	text-decoration: none;
+	margin: 0, auto;
+}
+
+a:hover {
+	color: blue;
+}
+
+td {
+	text-align: center;
+	font-family: 'Racing Sans One';
+	font-size:	25px;
+	width: 33%;
+	padding-right: 5px;
+	margin: 0, auto;
+}
+table {
+
+	width: 1200px;
+	margin: 0px;
+}
+
+.icons {
+    width: 18%;
+    height: auto;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#hero {
+	background-color: gray;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+	margin: 0, auto;
+}
+#logo {
+	width: 850px;
+	display: block;
+	margin: 0 auto;
+}
+#corner {
+	width: 50px;
+	float:left;
+	margin: 0, 0;
+	padding: 0, 0;
+}
+
+#middle {
+    width: 100%;
+    background-color: #4699cc;
+    margin: 0, auto;
+
+}
+#creative {
+	color: #28281e;
+	text-align: center;
+	font-size: 60px;
+	font-family: 'Bungee Shade';
+	margin: 0, auto;
+}
+
+#design {
+	color: #28281e;
+	text-align: center;
+	font-size: 50px;
+	font-family: 'Abril Fatface';
+	margin: 0, auto;
+}
+#circles {
+	display: block;
+	margin: 0 auto;
+	float: center;
+	height: 38px;
+	margin: 0, auto;
+}
+
+#third {
+    background-image: url("https://c1.staticflickr.com/3/2897/33572861116_1d66f8900f_b.jpg");
+    margin: 0;
+    background-size: cover;
+	background-repeat: no-repeat;
+	height: 400px;
+	margin: 0, auto;
+}
+
+.column {
+	float: left;
+	width: 33%;
+	position: relative;
+	height: 400px;
+	margin: 0, auto;
+}
+
+.column h2 {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 50%;
+	transform: translateY(-50%);
+	margin: 0 auto;
+	color: white;
+	font-family: 'Racing Sans One';
+	font-size: 22px;
+}
+
+#frog {
+	background-image: url("https://c2.staticflickr.com/4/3727/32949987863_719444b5bc_b.jpg");
+	background-repeat: no-repeat;
+	margin: 0 auto;
+	background-size: cover;
+}
+
+#stars {
+	background-image: url("https://c2.staticflickr.com/4/3939/32919748184_b9df4682bf_b.jpg");
+	background-repeat: no-repeat;
+	margin: 0 auto;
+	background-size: cover;
+}
+
+#sunset {
+	background-image: url("https://c1.staticflickr.com/3/2871/32919747394_e2ebf36c0a_b.jpg");
+	background-repeat: no-repeat;
+	margin: 0 auto;
+	background-size: cover;
+}
+
+}
+.footer {
+    color: #28281e;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Racing Sans One';
+    font-weight: lighter;
+    margin: 0, auto;
+    text-align: center;
+	font-size: 19px;
+	float: left;
+}
+
+#copyright {
+    color: #28281e;
+    padding: 30px 0px;
+    text-decoration: none;
+    font-family: 'Racing Sans One';
+    font-weight: lighter;
+    margin: 0, auto;
+    text-align: right;
+	font-size: 19px;
+	float: right;
+}
