@@ -3,16 +3,19 @@
 @import url(https://fonts.googleapis.com/css?family=Contrail+One);
 @import url(https://fonts.googleapis.com/css?family=Shrikhand);
 @import url(https://fonts.googleapis.com/css?family=Racing+Sans+One);
+@import url(https://fonts.googleapis.com/css?family=Bench+Nine);
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
 	color: #fcfcf5;
 	font-size: 20px;
 	text-align: center;
 	font-family: helvetica, arial, sans-serif;
+	margin: 0, auto;
 }
 nav {
 	float:right;
 	color: #fcfcf5;
+	margin: 0, auto;
 }
 nav a {
     display: inline-block;
@@ -21,7 +24,9 @@ nav a {
     text-decoration: none;
     font-family: 'Racing Sans One';
     font-weight: lighter;
+    margin: 0, auto;
 }
+
 a {
 	text-align: center;
 	display: block;
@@ -29,10 +34,15 @@ a {
 	font-family: helvetica;
 	font-size: 19px;
 	text-decoration: none;
+	margin: 0, auto;
+}
+
+a:hover {
+	color: blue;
 }
 div {
     width: 1200px;
-    margin: auto;
+    margin: 0, auto;
 }
 td {
 	text-align: center;
@@ -40,6 +50,7 @@ td {
 	font-size:	25px;
 	width: 33%;
 	padding-right: 5px;
+	margin: 0, auto;
 }
 table {
 
@@ -50,16 +61,16 @@ table {
 .icons {
     width: 18%;
     height: auto;
-    margin-top: 35px;
-    margin-left: 60px;
-    margin-right: 60px;
-    float: center
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 #hero {
 	background-image: url("https://c1.staticflickr.com/3/2947/33460495195_bb63bac502_b.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 100vh;
+	margin: 0, auto;
 }
 #logo {
 	width: 850px;
@@ -69,13 +80,14 @@ table {
 #corner {
 	width: 50px;
 	float:left;
+	margin: 0, auto;
 }
 
 #middle {
     width: 1200px;
     height: 500px;
     background-color: white;
-    margin: auto;
+    margin: 0, auto;
 
 }
 #creative {
@@ -83,6 +95,7 @@ table {
 	text-align: center;
 	font-size: 60px;
 	font-family: 'Bungee Shade';
+	margin: 0, auto;
 }
 
 #design {
@@ -90,12 +103,14 @@ table {
 	text-align: center;
 	font-size: 50px;
 	font-family: 'Abril Fatface';
+	margin: 0, auto;
 }
 #circles {
 	display: block;
 	margin: 0 auto;
 	float: center;
 	height: 38px;
+	margin: 0, auto;
 }
 
 #third {
@@ -104,6 +119,7 @@ table {
     background-size: cover;
 	background-repeat: no-repeat;
 	height: 400px;
+	margin: 0, auto;
 }
 
 .column {
@@ -111,6 +127,7 @@ table {
 	width: 33%;
 	position: relative;
 	height: 400px;
+	margin: 0, auto;
 }
 
 .column h2 {
@@ -121,7 +138,8 @@ table {
 	transform: translateY(-50%);
 	margin: 0 auto;
 	color: white;
-	font-family: 'Abril Fatface';
+	font-family: 'Racing Sans One';
+	font-size: 22px;
 }
 
 #frog {
@@ -143,4 +161,28 @@ table {
 	background-repeat: no-repeat;
 	margin: 0 auto;
 	background-size: cover;
+}
+
+.footer {
+    color: #28281e;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Racing Sans One';
+    font-weight: lighter;
+    margin: 0, auto;
+    text-align: center;
+	font-size: 19px;
+	float: left;
+}
+
+#copyright {
+    color: #28281e;
+    padding: 30px 0px;
+    text-decoration: none;
+    font-family: 'Racing Sans One';
+    font-weight: lighter;
+    margin: 0, auto;
+    text-align: right;
+	font-size: 19px;
+	float: right;
 }
