@@ -60,7 +60,7 @@ td {
     margin-right: 5%;
 }
 #hero {
-	background-image: url("https://c1.staticflickr.com/3/2876/33300575714_1025b69f7f_b.jpg");
+	background-image: url("http://www.pixelmatortemplates.com/wp-content/uploads/2014/01/blueprint-final.png");
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 100%;
@@ -179,7 +179,6 @@ td {
 		width: auto;
 	}
 	#hero {
-		background-image: url("https://c1.staticflickr.com/3/2876/33300575714_1025b69f7f_b.jpg");
 		float: none;
 		width: auto;
 	}
