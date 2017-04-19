@@ -28,7 +28,6 @@ nav a {
     font-weight: lighter;
     margin: 0, auto;
 }
-
 a {
 	text-align: center;
 	display: block;
@@ -38,7 +37,6 @@ a {
 	text-decoration: none;
 	margin: 0, auto;
 }
-
 a:hover {
 	color: blue;
 }
@@ -54,7 +52,6 @@ td {
 	padding-right: .25em;
 	margin: 0, auto;
 }
-
 .icons {
     width: 22%;
     height: auto;
@@ -63,7 +60,7 @@ td {
     margin-right: 5%;
 }
 #hero {
-	background-image: url("http://wallpapercave.com/wp/2nfK3B5.png");
+	background-image: url("https://c1.staticflickr.com/3/2876/33300575714_1025b69f7f_b.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 100%;
@@ -80,12 +77,10 @@ td {
 	float:left;
 	margin: 0, auto;
 }
-
 #middle {
     width: 100%;
     background-color: white;
     margin: 0, auto;
-
 }
 #creative {
 	color: #28281e;
@@ -94,7 +89,6 @@ td {
 	font-family: 'Bungee Shade';
 	margin: 0, auto;
 }
-
 #design {
 	color: #28281e;
 	text-align: center;
@@ -109,7 +103,6 @@ td {
 	width: 8%;
 	margin: 0, auto;
 }
-
 .column {
 	float: left;
 	width: 33%;
@@ -117,7 +110,6 @@ td {
 	height: 50vh;
 	margin: 0, auto;
 }
-
 .column h2 {
 	position: absolute;
 	left: 0;
@@ -129,28 +121,24 @@ td {
 	font-family: 'Permanent Marker';
 	font-size: 150%;
 }
-
 #frog {
 	background-image: url("https://c2.staticflickr.com/4/3727/32949987863_719444b5bc_b.jpg");
 	background-repeat: no-repeat;
 	margin: 0 auto;
 	background-size: cover;
 }
-
 #stars {
 	background-image: url("https://c2.staticflickr.com/4/3939/32919748184_b9df4682bf_b.jpg");
 	background-repeat: no-repeat;
 	margin: 0 auto;
 	background-size: cover;
 }
-
 #sunset {
 	background-image: url("https://c1.staticflickr.com/3/2871/32919747394_e2ebf36c0a_b.jpg");
 	background-repeat: no-repeat;
 	margin: 0 auto;
 	background-size: cover;
 }
-
 .footer {
     color: #28281e;
     padding: .7em .75em;
@@ -162,7 +150,6 @@ td {
 	font-size: 1.2em;
 	float: left;
 }
-
 #copyright {
     color: #28281e;
     padding: 1.5em 0em;
@@ -174,14 +161,12 @@ td {
 	font-size: 1.2em;
 	float: right;
 }
-
 #wrapper {
 	width: 1;
 	padding: 0em;
 }
 
-
-@media only screen and (min-width: 320px) and (max-width: 500px) {
+@media only screen and (min-width: 300px) and (max-width: 550px) {
 	.icons {
 		float: none;
 		width: auto;
@@ -189,24 +174,20 @@ td {
 		width: 100%;
 		text-align: center;
 	}
-
 	.column {
 		float: none;
 		width: auto;
 	}
-
 	#hero {
-		background-image: url("http://wallpapercave.com/wp/2nfK3B5.png");
+		background-image: url("https://c1.staticflickr.com/3/2876/33300575714_1025b69f7f_b.jpg");
 		float: none;
 		width: auto;
 	}
-
 	nav a {
 		display: block;
 		text-align: center;
 		margin: 0, auto;
 		float: none;
 	}
-
 }
 
